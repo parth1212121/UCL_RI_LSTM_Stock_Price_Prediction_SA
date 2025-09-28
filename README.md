@@ -1,1 +1,3 @@
 # LSTM_Stock_Price_Prediction_SA
+
+This project focuses on predicting the closing price of Tesla stock using sentiment analysis combined with a Long Short-Term Memory (LSTM) network and a novel Sparrow Search Algorithm (SSA) for model optimization. The sentiment analysis is performed by finetuning a Large Language Model (LLM) to extract sentiment scores from tweets related to Tesla, which are then used as a feature for the LSTM model. The project compares the performance of sentiment analysis methods and optimization techniques, demonstrating that fine-tuned LLMs and SSA provide significant improvements over basic methods.
